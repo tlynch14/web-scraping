@@ -48,7 +48,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
+
 
 ### Built With
 
@@ -58,3 +59,9 @@
 ### Prerequisites
 
 ### Installation
+
+```bash
+# Install dependencies
+$ conda create --prefix ./env requests lxml bs4
+
+```
